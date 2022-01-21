@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681366324140",
+    "project_id": "catchthecowboy-93c95",
+    "storage_bucket": "catchthecowboy-93c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681366324140:android:05294fcea42459eb7bf009",
+        "android_client_info": {
+          "package_name": "com.yavuz.catchthekenny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681366324140-d51adqhdpmke2p7jfk10ovnn2r6glm9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxGHkiWVi-ODRyuqwN6UKpzin9ZE6HVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681366324140-d51adqhdpmke2p7jfk10ovnn2r6glm9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
